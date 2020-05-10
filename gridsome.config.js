@@ -10,7 +10,7 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'SSR Starter',
   plugins: [],
   chainWebpack (config) {
     const types = ['vue-modules', 'vue', 'normal-modules', 'normal'];
