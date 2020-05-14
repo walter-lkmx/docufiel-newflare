@@ -15,7 +15,7 @@ Your npm instanceneed to be logged in
 
 2. Create a personal access token in your Github Account navigating to https://github.com/settings/tokens/new, making sure to select both **repo** and **read:packages**.
 
-![Github token settings](./docs/assets/token_settings.png)
+![Github token settings](./docs/assets/token_settings.jpg)
 
 #### npm registry login
 
