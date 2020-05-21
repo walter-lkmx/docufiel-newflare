@@ -13,9 +13,5 @@
 </script>
 
 <style lang="scss">
-@import "src/sass/styles"; // Remove this!
 
-h1 {
-  color: $color;
-}
 </style>
