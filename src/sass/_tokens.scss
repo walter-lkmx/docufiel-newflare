@@ -1,0 +1,27 @@
+// color
+$brand-primary: #34dcb7;
+$brand-secondary: #182d46;
+$docufiel-grey: #6d6d6d;
+$docufiel-grey-light: #f7f7f7;
+$docufiel-white: #ffffff;
+$body-background: $docufiel-grey-light;
+
+// header
+$header-position: fixed;
+$header-height: 50px;
+$header-text-default-color: $docufiel-grey;
+$header-logo-height: 64px;
+$header-background-color: white;
+
+// card holder
+$large-and-up: repeat(3, 1fr);
+$three-columns: repeat(3, 1fr);
+$four-columns: repeat(4, 1fr);
+
+// text
+$text-font: "Cabin",sans-serif;
+$text-selection-color: lighten($brand-primary, 20%);
+
+// headers
+$headers-default-font: "Cabin",sans-serif;
+$headers-default-color: $brand-secondary;

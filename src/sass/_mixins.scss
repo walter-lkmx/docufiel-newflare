@@ -1,0 +1,7 @@
+@mixin gridline($col, $gap, $align) {
+  grid-template-columns:repeat($col, 1fr);
+  display: grid;
+  grid-gap: $gap;
+  align-items: $align;
+}
+

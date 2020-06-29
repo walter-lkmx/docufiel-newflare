@@ -7,8 +7,9 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
+    "@lkmx/flare": "0.19.0",
     "gridsome": "^0.7.0",
-    "@lkmx/flare": "0.19.0"
+    "typeface-cabin": "0.0.72"
   },
   "devDependencies": {
     "node-sass": "^4.13.1",
