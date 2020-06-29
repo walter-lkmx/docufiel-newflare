@@ -7,3 +7,4 @@ charset = utf-8
 
 [*.{js,json,vue,scss,css}]
 indent_size = 2
+

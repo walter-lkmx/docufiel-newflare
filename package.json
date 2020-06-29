@@ -4,12 +4,12 @@
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "preinstall": "chmod 744 preinstall.sh && ./preinstall.sh"
   },
   "dependencies": {
-    "@lkmx/flare": "0.19.0",
     "gridsome": "^0.7.0",
-    "typeface-cabin": "0.0.72"
+    "@lkmx/flare": "0.19.0"
   },
   "devDependencies": {
     "node-sass": "^4.13.1",

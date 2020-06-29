@@ -25,12 +25,6 @@ Login to the npm registry using your Github username and the token generated in 
 npm login --registry=https://npm.pkg.github.com
 ```
 
-#### Add `NPM_TOKEN` to your .bashrc
-
-```
-export NPM_TOKEN=<your-github-token>
-```
-
 #### Dependencies and local server
 
 Download the dependencies using
